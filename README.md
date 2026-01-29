@@ -11,6 +11,7 @@ The goal of this dashboard is to demonstrate business intelligence skills includ
 - Which demographic segments represent the highest engagement opportunities?
 
 ## Dashboard Features
+- This dashboard is designed to support exploratory analysis and high-level decision-making through interactive filtering and visual storytelling.
 - Interactive slicers for demographic and household attributes
 - Drill-down and cross-filtering across visuals
 - KPI-style summary visuals for quick insights
@@ -26,6 +27,11 @@ No real customer or proprietary data is included.
 - DAX measures
 - Data visualization & storytelling
 - Business intelligence best practices
+- Power BI Service publishing
+- Data modeling & relationships
+- DAX measures and calculated fields
+- Interactive dashboards & slicers
+- Business intelligence storytelling
 
 ## How to View
 - Interactive version: <https://app.powerbi.com/reportEmbed?reportId=84dc865a-3ac0-4d39-abd4-08d152e26274&autoAuth=true&ctid=cfa792cf-7768-4341-8857-81754c2afa1f&actionBarEnabled=true&reportCopilotInEmbed=true>
