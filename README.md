@@ -8,4 +8,12 @@ Interactive Power BI dashboard created for a fictional company to showcase data 
 - PBIX file: (add link here if included in repo)
 
 ## Screenshots
-(Add images below once uploaded.)
+
+### Main Dashboard
+![Main Dashboard](assets/main.jpg)
+
+### Family Insights
+![Family Insights](assets/family_insights.jpg)
+
+### Pet Demographics
+![Pet Demographics](assets/pet_demo.jpg)
