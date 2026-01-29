@@ -1,11 +1,11 @@
 ## Screenshots
 
-### Dashboard Main Menu
-![Dashboard Overview](assets/main.jpg)
+### Main Dashboard
+![Main Dashboard](assets/main.jpg)
 
-### Pet Demographics Page
+### Family Insights
+![Family Insights](assets/family_insights.jpg)
+
+### Pet Demographics
 ![Pet Demographics](assets/pet_demo.jpg)
-
-### Family Insights Page
-![Pet Demographics](assets/family_insights.jpg)
 
