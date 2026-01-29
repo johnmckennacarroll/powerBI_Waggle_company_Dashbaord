@@ -28,7 +28,7 @@ No real customer or proprietary data is included.
 - Business intelligence best practices
 
 ## How to View
-- Interactive version: (add link here if published)
+- Interactive version: <https://app.powerbi.com/reportEmbed?reportId=84dc865a-3ac0-4d39-abd4-08d152e26274&autoAuth=true&ctid=cfa792cf-7768-4341-8857-81754c2afa1f&actionBarEnabled=true&reportCopilotInEmbed=true>
 - PBIX file: (add link here if included in repo)
 
 ## Screenshots
