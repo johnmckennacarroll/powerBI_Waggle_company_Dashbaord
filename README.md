@@ -1,7 +1,31 @@
-# Fake Company (Waggle) Power BI Dashboard
+# Waggle – Power BI Interactive Dashboard
+
 
 ## Overview
-Interactive Power BI dashboard created for a fictional company to showcase data modeling, DAX measures, and interactive reporting.
+This project is an interactive Power BI dashboard built for a fictional pet technology company, **Waggle**, designed to analyze customer demographics, household composition, and pet ownership trends.  
+The goal of this dashboard is to demonstrate business intelligence skills including data modeling, DAX measures, and interactive reporting.
+
+## Business Questions
+- How do customer household types differ across regions?
+- What trends exist between family composition and pet ownership?
+- Which demographic segments represent the highest engagement opportunities?
+
+## Dashboard Features
+- Interactive slicers for demographic and household attributes
+- Drill-down and cross-filtering across visuals
+- KPI-style summary visuals for quick insights
+- Clean, business-focused layout optimized for decision-making
+
+## Data
+This dashboard uses **synthetic / fictional data** created specifically for portfolio purposes.  
+No real customer or proprietary data is included.
+
+## Tools & Skills
+- Power BI Desktop
+- Data modeling (star schema)
+- DAX measures
+- Data visualization & storytelling
+- Business intelligence best practices
 
 ## How to View
 - Interactive version: (add link here if published)
